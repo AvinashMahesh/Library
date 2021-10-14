@@ -16,7 +16,7 @@ public class Client
     	name = n;
     	book1 = b;
     }
-/*
+
     public Client (String n, Book b1, Book b2) {
     	name = n;
     	book1 = b1;
